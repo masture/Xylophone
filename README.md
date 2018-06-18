@@ -1,11 +1,3 @@
 # Xylophone
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9)
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
-Pro: Git clone to your Xcode projects folder.
-
-## Finished App
-<img src="https://github.com/londonappbrewery/Images/blob/master/Xylophone.png" width="400">
-
-Copyright © London App Brewery
+This is a Xylophone App. This has the 7 musical notes (recording) stored and these are played as user touches the 7 buttons Sa-Re-Ga-Ma-Pa-Dha-Ni.
